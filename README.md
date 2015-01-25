@@ -1,0 +1,2 @@
+# phonegapstart
+phonegap start
